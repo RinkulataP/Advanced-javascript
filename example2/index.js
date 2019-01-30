@@ -1,3 +1,6 @@
-require('./util');
+//instead of
+process.env.PORT
+//read from config uttility
+const{config} = require('./util');
 
-console.log(answer);
+config.port
