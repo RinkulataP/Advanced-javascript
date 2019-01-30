@@ -1,0 +1,7 @@
+{
+    "todos": [
+        {"id":1, "ttask": "learn about module"},
+        {"id":2, "ttask": "learn about scope"},
+        {"id":3, "ttask": "learn about npm"}
+            ]
+}
